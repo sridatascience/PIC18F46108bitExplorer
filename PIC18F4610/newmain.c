@@ -1,6 +1,6 @@
 /* COMPILER DIRECTIVES FOR CHIP CONFIGURATION BITS*/
 #include<xc.h>
-#pragma config LVP = OFF
+
 #pragma config WDT = OFF         // Watchdog Timer Enable bit (WDT enabled)
 #pragma config OSC = HS
 
